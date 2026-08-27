@@ -1,0 +1,3 @@
+BUEN CAMINO ANDROID V1.0
+Nucleo web: V10.0.6 PRO · 2D CORREGIDO
+Paquete: com.buencamino.app
